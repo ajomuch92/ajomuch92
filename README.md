@@ -1,5 +1,6 @@
 ### Hi everyone, my name is Aarón Montes.
 
+👨‍💻 Software developer (also Open Source creator)
 🔭 Currently working at Vanguard X
 🌱 I’m currently learning ML and IA on my master Degree
 ❤️ VueJS and Flutter lover
