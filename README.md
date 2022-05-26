@@ -3,7 +3,7 @@
 👨‍💻 Software developer (also Open Source creator)
 🔭 Currently working at Vanguard X
 🌱 I’m currently learning ML and IA on my master Degree
-❤️ VueJS and Flutter lover
+❤️ VueJS, Flutter and Deno(🦖) lover
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ajomuch92)
 
