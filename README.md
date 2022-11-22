@@ -7,7 +7,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ajomuch92)
 
-[![Aarón J Montes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajomuch92&show_icons=true&theme=synthwave&count_private=true)](https://github.com/ajomuch92)
+[![Check out ajomuch92's profile on stardev.io](https://stardev.io/developers/ajomuch92/badge/languages/country.svg)](https://stardev.io/developers/ajomuch92)
 
 [![Aarón J Montes's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajomuch92&layout=compact&theme=radical&count_private=true)](https://github.com/ajomuch92)
 
