@@ -13,7 +13,7 @@
 
 [![Check out ajomuch92's profile on stardev.io](https://stardev.io/developers/ajomuch92/badge/languages/country.svg)](https://stardev.io/developers/ajomuch92)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ajomuch92&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ajomuch92&theme=vue&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
 
 <!--
 **ajomuch92/ajomuch92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
