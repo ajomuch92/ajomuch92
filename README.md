@@ -11,6 +11,11 @@
 
 [![Check out ajomuch92's profile on stardev.io](https://stardev.io/developers/ajomuch92/badge/languages/country.svg)](https://stardev.io/developers/ajomuch92)
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/ajomuch92/count.svg" />
+</p>
+
 <!--
 **ajomuch92/ajomuch92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
