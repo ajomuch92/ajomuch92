@@ -1,7 +1,7 @@
 ### Hi everyone, my name is Aarón Montes.
 
 👨‍💻 Software developer (also Open Source creator)
-🔭 Currently working at Crowded
+🔭 Currently working at KSS
 🌱 and learning ML and IA on my master Degree
 ❤️ VueJS, C#, Flutter and Deno(🦖) lover. React learner
 
