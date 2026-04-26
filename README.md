@@ -1,14 +1,15 @@
 ### Hi everyone, my name is Aarón Montes.
 
-👨‍💻 Software developer (also Open Source creator)
+👨‍💻 Software developer (also Open Source creator and contributor)
 🔭 Currently working at KSS
 🌱 and learning ML and IA on my master Degree
 ❤️ VueJS, C#, Flutter and Deno(🦖) lover. React learner
 
+Author of State of Flutter and Flutter Graph
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajomuch92&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Check out ajomuch92's profile on stardev.io](https://stardev.io/developers/ajomuch92/badge/languages/country.svg)](https://stardev.io/developers/ajomuch92)
 
 
 <!--
