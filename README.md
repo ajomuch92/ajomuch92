@@ -3,7 +3,7 @@
 👨‍💻 Software developer (also Open Source creator and contributor)
 🔭 Currently working at KSS
 🌱 and learning ML and IA on my master Degree
-❤️ VueJS, C#, Flutter and Deno(🦖) lover. React learner
+❤️ VueJS, Astro, C#, Flutter and Nest lover. React learner
 
 Author of State of Flutter and Flutter Graph
 
