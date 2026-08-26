@@ -8,7 +8,7 @@
 Author of State of Flutter and Flutter Graph
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ajomuch92&theme=vue&timezone=UTC-6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajomuch92&theme=vue)](https://git.io/streak-stats)
 
 
 
