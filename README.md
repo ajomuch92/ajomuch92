@@ -1,6 +1,6 @@
 ### Hi everyone, my name is Aarón Montes.
 
-👨‍💻 Software developer (also Open Source creator and contributor)
+👨‍💻 Software developer (also Open Source dev and contributor)
 🔭 Currently working at KSS
 🌱 and learning ML and IA
 ❤️ VueJS, Astro, C#, Flutter and Nest lover. React learner
